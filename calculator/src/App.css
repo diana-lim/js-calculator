@@ -15,4 +15,37 @@ body {
   color: white;
 }
 
+textarea {
+  width: 100%;
+}
+
+#clear, #negative, #percent {
+  width: 25%;
+  height: 40px;
+  background-color: gray;
+  color: white;
+  font-weight: bold;
+}
+
+#divide, #multiply, #subtract, #add, #equals {
+  width: 25%;
+  height: 40px;
+  background-color: orange;
+  color: white;
+  font-weight: bold;
+}
+
+#one, #two, #three, #four, #five, #six, #seven, #eight, #nine {
+  width: 25%;
+  height: 40px;
+}
+#zero {
+  width: 50%;
+  height: 40px;
+}
+#decimal {
+  width: 25%;
+  height: 40px;
+}
+
 
